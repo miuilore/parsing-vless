@@ -1,4 +1,4 @@
-#profile-title: 💜WLN💜 ЧС
+#profile-title: 💜WLN💜
 #profile-update-interval: 1
 #announce: ЧС и БС
 #support-url: https://t.me/whitelistvpn111
